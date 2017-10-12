@@ -1,4 +1,4 @@
-# TransferPricing
+# Transfer Pricing
 ## Data analytics or anything relevant for transfer pricing related topics.
 
 _Disclaimer: this is a repo to document data analytic work I think is beneficial but under-explored for transfer pricing work. Any examples/codes presented here used randomly generated data to simulate situations appropriate for illustration purpose only. No proprietary data of any kind is used here. Essentially, I collect my intellectual thoughts here on transfer pricing for the purposes of further learnig and discussions only._
