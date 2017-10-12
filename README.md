@@ -17,4 +17,5 @@ _Disclaimer: this is a repo to document data analytic work I think is beneficial
     - Simple regression
     - Random forest decision tree
 
-#### 3. Comparing PowerBI vs Data Studio 
+#### 3. Data Analytic Tools
+* Comparing PowerBI vs Data Studio 
